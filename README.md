@@ -52,10 +52,4 @@ for numerical columns like `Quantity`, `UnitPrice`, and `TotalSales`.
 - **NumPy**
 - **Jupyter Notebook / Google Colab**
 
----
 
-## 📌 Getting Started
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/sales-data-insights.git
