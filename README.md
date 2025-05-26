@@ -50,6 +50,6 @@ for numerical columns like `Quantity`, `UnitPrice`, and `TotalSales`.
 - **Python**
 - **Pandas**
 - **NumPy**
-- **Jupyter Notebook / Google Colab**
+- **Jupyter Notebook**
 
 
